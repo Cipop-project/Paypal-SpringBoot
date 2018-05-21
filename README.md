@@ -18,6 +18,10 @@ to run this sample, please at first crete paypal account and register your apps 
 		paypal.client.app=xxxxxxxxxxxxxxxxxxYOUR_CLIENT_IDxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 		paypal.client.secret=xxxxxxxxxxxxxxxxxxYOUR_CLIENT_SECRETxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 		
+Test Account:
+        
+		779455856-buyer@qq.com
+		938447132
 
 Then run it using maven :
 
