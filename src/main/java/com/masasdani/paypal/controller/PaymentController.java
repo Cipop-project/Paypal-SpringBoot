@@ -41,7 +41,7 @@ public class PaymentController {
 		String successUrl = URLUtils.getBaseURl(request) + "/" + PAYPAL_SUCCESS_URL;
 		try {
 			Payment payment = paypalService.createPayment(
-					1.00, 
+					9990.00,
 					"EUR", 
 					PaypalPaymentMethod.paypal, 
 					PaypalPaymentIntent.sale,

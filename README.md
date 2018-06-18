@@ -21,6 +21,7 @@ to run this sample, please at first crete paypal account and register your apps 
 Test Account:
         
 		779455856-buyer@qq.com
+		779455856-facilitator@qq.com
 		938447132
 
 Then run it using maven :
